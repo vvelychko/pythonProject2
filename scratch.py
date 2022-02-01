@@ -24,7 +24,7 @@ class Chislo:
 
 p1 = Chislo(1)
 p2 = Chislo(2)
-
+#1
 print(p1+p2)
 print(p1-p2)
 print(p1*p2)
